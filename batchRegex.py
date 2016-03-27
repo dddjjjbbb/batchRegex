@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-''' Depending on commmand line args, script applies set of Regex Patterns to all files. Will traverse dirctory tree. '''
+''' Depending on command line args, script applies set of Regex Patterns to all files. Will traverse directory tree. '''
 
 import os.path
 from os import walk
